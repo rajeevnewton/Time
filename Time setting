@@ -1,0 +1,9 @@
+open Command prompt in Arduino Uno 
+Year,Month,Day,Hour,min,sec
+All two digits 
+Example year 2023-23
+Month September - 09
+Day - 10
+Hour - 14(24hrs format)
+Min - 11
+Sec - 30
